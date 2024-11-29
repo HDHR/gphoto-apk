@@ -6,6 +6,9 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
+[Twitch]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
+
 [Google Photos]
 version = "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos/"
